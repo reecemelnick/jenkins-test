@@ -1,8 +1,7 @@
 import re
 
 def main():
-    print("Hello, Jenkins!")
-    print("Testing webhook")
+    print("Testing Docker deployment!")
 
 def is_valid_password(password):
     if len(password) < 8:
