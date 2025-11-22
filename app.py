@@ -1,7 +1,8 @@
 import re
 
 def main():
-    print("Testing Docker deployment!")
+    print("Testing Docker deploy!")
+
 
 def is_valid_password(password):
     if len(password) < 8:
