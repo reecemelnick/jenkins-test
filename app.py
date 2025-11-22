@@ -1,7 +1,7 @@
 import re
 
 def main():
-    print("Testing Docker deploy!")
+    print("Testing Docker deploy")
 
 
 def is_valid_password(password):
